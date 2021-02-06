@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Burtu ābece",
+    "isbnCode": "12121212",
+    "authors": [
+      {
+        "name": "Gusts",
+        "surname": "Link",
+        "nickName": "gst"
+      }
+    ]
+  },
+  {
+    "title": "Priedes",
+    "isbnCode": "333333",
+    "authors": [
+      {
+        "name": "Gusts",
+        "surname": "Link",
+        "nickName": "gst"
+      },
+      {
+        "name": "Jānis",
+        "surname": "Priede",
+        "nickName": "JP"
+      }
+    ]
+  }
+]
